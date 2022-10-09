@@ -1,2 +1,2 @@
-# LaravelTask2andTask3
-Create a Laravel app with unit tests to test user experience of website and Add a web UI to the Laravel app that has a route which shows status of UnitTests
+# Created BDD Tests with Laravel Dusk
+Created a Laravel app with unit tests to test user experience of website, with Laravel Dusk package and Added a Web UI to the Laravel app that shows the logged statuses of the Tests
